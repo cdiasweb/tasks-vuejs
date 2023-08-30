@@ -47,16 +47,16 @@ export default {
       task: {
         name: '',
         description: '',
-        status: 'pending'
+        status: 'Pendente'
       },
       taskStatuses: [
         {
           label: 'Pendente',
-          value: 'pending'
+          value: 'Pendente'
         },
         {
           label: 'Concluída',
-          value: 'done'
+          value: 'Concluída'
         }
       ],
       errorMessage: ''

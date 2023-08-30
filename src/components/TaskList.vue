@@ -23,7 +23,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .nova-tarefa {
   background-color: purple;
   color: white;
